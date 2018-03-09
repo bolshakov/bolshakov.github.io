@@ -28,3 +28,9 @@ docker volume ls --quiet | xargs --no-run-if-empty docker volume rm
 ```
 docker ps --quiet --filter status=running | xargs --no-run-if-empty docker stop; docker ps -a --filter status=exited --quiet | xargs --no-run-if-empty docker rm; docker volume ls --quiet | xargs --no-run-if-empty docker volume rm
 ``` 
+
+*UP*: Есть более простой способ сделать всё тоже самое:
+
+```
+docker system prune
+```
