@@ -3,7 +3,7 @@ layout: post
 title: "Navigating Ruby Autoloading: From Chaos to Order"
 date: 2023-07-19 21:53:35 +0300
 tags: ruby
-excerpt: Discover how to navigate the complexities of managing dependencies in Ruby. This article explores different techniques for handling autoload in Ruby, along with their respective challenges, such as the ordering of <code>require</code> statements and the thread safety of <code>Kernel.autoload</code>. Delve into the world of autoloading, learn about its pitfalls, and see how to effectively use it in your codebase. The highlight of the discussion is an introduction to Zeitwerk, a modern solution to these challenges.
+excerpt: Discover how to navigate the complexities of managing dependencies in Ruby. This article explores different techniques for loading code in Ruby, along with their respective challenges, such as the ordering of <code>require</code> statements and the thread safety of <code>Kernel.autoload</code>. Delve into the world of autoloading, learn about its pitfalls, and see how to effectively use it in your codebase. The highlight of the discussion is an introduction to Zeitwerk, a modern solution to these challenges.
 ---
 
 Consider a scenario where you're developing a Ruby gem that offers a range of domain models 
