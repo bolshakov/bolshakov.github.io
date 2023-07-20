@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Tema Bolshakov
-email: either.free@gmail.com
+title: Tëma Bolshakov
+email: blog@bolshakov.dev
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bolshakov.github.com" # the base hostname & protocol for your site

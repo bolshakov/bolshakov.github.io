@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hey there! Welcome to my blog! 
 
-Hi, my name is Tema. As a software developer I every day use ruby.
-I'm also passionate about Scala programming language, open source and biking.
+I'm Tëma Bolshakov, an experienced software engineer with more than a decade of 
+hands-on expertise. In this space, I'll be sharing my day-to-day challenges and achievements as a software engineer.
+
