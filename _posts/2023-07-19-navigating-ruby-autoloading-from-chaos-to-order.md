@@ -6,6 +6,8 @@ tags: ruby
 excerpt: Discover how to navigate the complexities of managing dependencies in Ruby. This article explores different techniques for loading code in Ruby, along with their respective challenges, such as the ordering of <code>require</code> statements and the thread safety of <code>Kernel.autoload</code>. Delve into the world of autoloading, learn about its pitfalls, and see how to effectively use it in your codebase. The highlight of the discussion is an introduction to Zeitwerk, a modern solution to these challenges.
 ---
 
+{% include cover_image.html url="/assets/2023-07-19-navigating-ruby-autoloading-from-chaos-to-order/cover.jpg" description="Album Cover: Polymorphic Code by The Algorithm" %}
+
 Consider a scenario where you're developing a Ruby gem that offers a range of domain models 
 for an audio library. This gem encompasses a common set of classes typical to this 
 domain, such as `Album`, `Artist`, `Track`, `Genre`, and so forth.
