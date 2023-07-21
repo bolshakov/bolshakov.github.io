@@ -95,7 +95,7 @@ Trying to run it fails with the following error.
 ```ruby
 $ bundle exec rspec
 NameError:
-  uninitialized constant Audio::Album::Types
+  Uninitialized constant Audio::Album::Types
 # ./lib/audio/album.rb:4:in `<class:Album>'
 # ./lib/audio/album.rb:2:in `<module:Audio>'
 # ./lib/audio/album.rb:1:in `<top (required)>'
