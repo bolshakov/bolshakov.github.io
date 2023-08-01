@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "From OAuth to OpenID: The Evolution of Web Authentication"
-date: 2023-08-02 00:00:01 +0000
+date: 2023-08-01 00:00:01 +0000
 tags: OAuth OpenIDConnect Security IdentityManagement WebApplications DigitalTrust
 excerpt: Discover the foundational protocols that safeguard modern web applications and protect user identities. This article explains OAuth and OpenID Connect, the powerful duo that empowers seamless access and trustworthy authentication in the digital age. Explore their historical context, key components, and essential flows, equipping yourself with the knowledge to create secure and user-friendly digital experiences. Unlock the potential of these protocols to fortify your applications and shape a future of secure digital interactions.
 ---
