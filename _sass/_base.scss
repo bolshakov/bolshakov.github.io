@@ -205,6 +205,13 @@ pre {
     }
 }
 
+figure {
+    figcaption {
+        text-align: center;
+        padding: 10px;
+    }
+}
+
 figure.cover-image {
     .image-wrapper {
         width: 100%;
@@ -221,9 +228,17 @@ figure.cover-image {
             left: 0;
         }
     }
+}
 
-    figcaption {
-        text-align: center;
-        padding: 10px;
+/* Add a slick border to the table */
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+    border: 2px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+
+    td {
+        padding: 8px;
     }
 }
