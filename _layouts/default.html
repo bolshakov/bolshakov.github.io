@@ -2,7 +2,9 @@
 <html>
 
   {% include head.html %}
-
+  {% if jekyll.environment == 'production' %}
+    <script async data-id="101421087" src="//static.getclicky.com/js"></script>
+  {% endif %}
   <body>
 
     {% include header.html %}
