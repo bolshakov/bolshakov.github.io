@@ -240,3 +240,16 @@
         }
     }
 }
+
+.box {
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 15px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+
+    &.purple {
+        background-color: #EAE6FF;
+        border-color: #9A8DE0;
+    }
+}
