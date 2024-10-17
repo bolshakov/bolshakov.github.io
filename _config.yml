@@ -10,8 +10,7 @@ title: Tëma Bolshakov
 email: blog@bolshakov.dev
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://bolshakov.github.com" # the base hostname & protocol for your site
-twitter_username: 0fa8af
+url: "https://bolshakov.github.com" # the base hostname & protocol for your site
 github_username:  bolshakov
 
 # Build settings
