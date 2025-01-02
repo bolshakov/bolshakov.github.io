@@ -149,11 +149,11 @@ Each article will include practical Python implementations using SQLAlchemy and 
 and adapt these patterns to your own applications. We'll maintain our focus on clean architecture principles while 
 developing solutions that scale with your application's complexity.
 
-[//]: ---
+---
 
-[//]: # (*This is part 1 of a series on Clean Architecture Transaction Management. [Part 2] explores the Unit of Work pattern ) as a solution to these challenges.*
+*This is part 1 of a series on Clean Architecture Transaction Management. [Part 2] explores the Unit of Work pattern as a solution to these challenges.*
 
-[Part 2]: #part-2
+[Part 2]: /2025/01/02/part2-managing-database-transactions-the-unit-of-work-pattern.html
 [SQLAlchemy]: https://www.sqlalchemy.org
 [FastAPI]: https://fastapi.tiangolo.com
 [clean architecture]: https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
