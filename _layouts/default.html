@@ -3,7 +3,14 @@
 
   {% include head.html %}
   {% if jekyll.environment == 'production' %}
-    <script async data-id="101421087" src="//static.getclicky.com/js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JNDD7SJ8Q0"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-JNDD7SJ8Q0');
+    </script>
   {% endif %}
   <body>
 
