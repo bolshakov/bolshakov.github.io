@@ -4,7 +4,7 @@ title: "Systems: Composition Roots for Stoplight 6.0"
 date: 2025-11-28 00:00:00 +0000
 ---
 
-In the Stoplight 6.0 roadmap, I outlined three major changes: enforcing configuration consistency, UTC timestamps, and 
+In the [Stoplight 6.0 roadmap], I outlined three major changes: enforcing configuration consistency, UTC timestamps, and
 cleaner configuration API. These improvements share a common foundation--an architectural pattern called systems.
 
 This document explains the architecture behind those changes. If the roadmap answered "what problems are we solving?", 
