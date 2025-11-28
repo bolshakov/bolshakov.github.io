@@ -377,8 +377,11 @@ For 95% of users, this is invisible--the default behavior handles everything thr
 building multi-tenant platforms, microservices with different SLAs, or need guaranteed test isolation, systems solve 
 real architectural problems.
 
-I'll write about systems separately once we've validated the design in practice. For now, know that the architecture 
-enables everything described here while remaining completely optional for most use cases.
+For the full architectural reasoning: [Systems: Composition Roots for Stoplight 6.0]
+
+The systems document explains why this is the right pattern, explores alternatives we considered, and details how the
+constraint cascades into multiple benefits. It's worth reading if you're curious about the design thinking, but not
+required to understand or use 6.0.
 
 ## Timeline and Your Feedback
 
@@ -410,3 +413,4 @@ we're missing before we commit to these changes. Your production experience shap
 
 
 [discussion forum]: https://github.com/bolshakov/stoplight/discussions/533
+[Systems: Composition Roots for Stoplight 6.0]: https://blog.bolshakov.dev/2025/11/28/stoplight-systems.html
