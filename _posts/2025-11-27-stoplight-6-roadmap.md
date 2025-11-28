@@ -402,8 +402,11 @@ matters more than our theoretical designs.
 5. Do you have circuits protecting critical services where a brief learning period after upgrade would be problematic? 
   We want to understand these use cases to provide better guidance.
 
-Share your thoughts in our discussion forum or open a GitHub issue. The whole point of this writeup is to hear what 
+Share your thoughts in our [discussion forum] or open a GitHub issue. The whole point of this writeup is to hear what
 we're missing before we commit to these changes. Your production experience shapes what we build.
 
 **Tëma Bolshakov**  
 *Stoplight Maintainer*
+
+
+[discussion forum]: https://github.com/bolshakov/stoplight/discussions/533
