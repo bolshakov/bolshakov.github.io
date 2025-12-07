@@ -8,7 +8,7 @@
 # Site settings
 title: Tëma Bolshakov
 email: blog@bolshakov.dev
-description: > # this means to ignore newlines until "baseurl:"
+description: Tëma Bolshakov maintains Stoplight, a Ruby circuit breaker library.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bolshakov.github.com" # the base hostname & protocol for your site
 github_username:  bolshakov
